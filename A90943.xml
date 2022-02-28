@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance or declaration, of the names of the knights and gentlemen that take part with Sir Ralph Hopton, and other delinquents, in Devonshire, and Cornewall with the number of their forces. Also the names of the knights and gentlemen that stand well affected to the Parliament. The names of those which stand for the King. Sir Charles Wray, Sir Robert Raynton, Mr. Pollard. Mr. Ingleby, Sir Iohn Venner, Mr. Fortescue, Mr Drake, and others, in the north part of the county. Mr. Berry, Mr. Ackland, and others, opposers of these malignants. Sir Iohn Banlet, Mr. Ash, in the East part, opposed by Sir George Chudleigh, Capt. Gifford, and divers other well affected gentlemen, which stand for the King and Parliament.</title>
+            <author>Prescot, Giles.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90943</idno>
+            <idno type="STC">Wing P3232</idno>
+            <idno type="STC">Thomason E124_29</idno>
+            <idno type="STC">ESTC R5847</idno>
+            <idno type="EEBO-CITATION">99872910</idno>
+            <idno type="PROQUEST">99872910</idno>
+            <idno type="VID">125357</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90943)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125357)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E124[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance or declaration, of the names of the knights and gentlemen that take part with Sir Ralph Hopton, and other delinquents, in Devonshire, and Cornewall with the number of their forces. Also the names of the knights and gentlemen that stand well affected to the Parliament. The names of those which stand for the King. Sir Charles Wray, Sir Robert Raynton, Mr. Pollard. Mr. Ingleby, Sir Iohn Venner, Mr. Fortescue, Mr Drake, and others, in the north part of the county. Mr. Berry, Mr. Ackland, and others, opposers of these malignants. Sir Iohn Banlet, Mr. Ash, in the East part, opposed by Sir George Chudleigh, Capt. Gifford, and divers other well affected gentlemen, which stand for the King and Parliament.</title>
+                  <author>Prescot, Giles.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Favvcet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 29. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Gyles Prescot.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hopton, Ralph Hopton, --  Baron, 1598-1652 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Cornwall (England : County) --  History --  Early works to 1800.</term>
+               <term>Devon (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125357:1" rendition="simple:additions"/>
+            <p>A REMONSTRANCE OR DECLARATION, Of the names of the Knights and Gen<g ref="char:EOLhyphen"/>tlemen that take part with <hi>Sir Ralph Hop<g ref="char:EOLhyphen"/>ton,</hi> and other Delinquents, in <hi>Devonſhire,</hi> and <hi>Cornewall</hi> with the number of their Forces.</p>
+            <p>Alſo the names of the Knights and Gentlemen that ſtand well affected to the Parliament.</p>
+            <p>The names of thoſe which ſtand for the King.
+<list>
+                  <item>Sir <hi>Charles Wray,</hi>
+                  </item>
+                  <item>Sir <hi>Robert Raynton,</hi>
+                  </item>
+                  <item>Mr. <hi>Pollard.</hi>
+                  </item>
+                  <item>Mr. <hi>Ingleby,</hi>
+                  </item>
+                  <item>Sir <hi>Iohn Venner,</hi>
+                  </item>
+                  <item>Mr. <hi>Forteſcue,</hi>
+                  </item>
+                  <item>Mr <hi>Drake,</hi>
+                  </item>
+                  <item>and others,</item>
+               </list> in the North part of the County.
+<list>
+                  <item>Mr. <hi>Berry,</hi>
+                  </item>
+                  <item>Mr. <hi>Ackland,</hi>
+                  </item>
+               </list>
+And others, oppoſers of theſe Malignants.
+<list>
+                  <item>Sir <hi>Iohn Banlet,</hi>
+                  </item>
+                  <item>Mr. <hi>Aſh,</hi>
+                  </item>
+               </list> Jn the Eaſt part<g ref="char:punc">▪</g> oppoſed by
+<list>
+                  <item>Sir <hi>George Chudleigh,</hi>
+                  </item>
+                  <item>Capt. <hi>Gifford,</hi>
+                  </item>
+               </list> And divers other well affected Gentlemen, which ſtand for the King and Parliament.</p>
+            <p>
+               <hi>London,</hi> Printed by THO. FAVVCET <hi>Octob.</hi> 29. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125357:2"/>
+            <pb n="3" facs="tcp:125357:2"/>
+            <head>
+               <figure>
+                  <figDesc>decorative strip with a central French fleur-de-lys flanked by two alternating Tudor roses and Scottish thistles</figDesc>
+               </figure>
+            </head>
+            <head>A Remonſtrance of the Knights, and Gentlemen, that takes part with Sir <hi>Ralph Hopton</hi> and other Delin<g ref="char:EOLhyphen"/>quents in <hi>Cornwall</hi> and <hi>Devon,</hi> as alſo the manner of the well affected to the PARLIAMENT.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">M</seg>Oſt worthy Sir,</salute>
+            </opener>
+            <p>having ſo fit an opportunity by this Poſt,s J embolden my ſelfe to preſent you thoſe few lines, humbly intreating you to pardon my boldneſſe, There may be divers rumours and flying reports of the condition of our Countie, J will not make repetition of wordes, nor write more then what is needfull, for the troubles we endure at this preſent, J am ſure you are ſencible of, and it is apparant<g ref="char:EOLhyphen"/>ly knowne; to end which, God in his
+<pb n="4" facs="tcp:125357:3"/>goodneſſe grant an happie concluſion, and to let you underſtand the ſtate and condi<g ref="char:EOLhyphen"/>tion thereof, J will relate it in briefe;</p>
+            <p>There hath beene no little combuſtion ſince the Earle of <hi>Bath</hi> and his Chaplaines apprehending, the County is greatly divi<g ref="char:EOLhyphen"/>ded amongſt themſelves, and great combu<g ref="char:EOLhyphen"/>ſtions betweene theſe ſeverall Gentlemen, <hi>viz.</hi>
+            </p>
+            <p>Sir <hi>Charles Wray,</hi> Sir <hi>John Venner,</hi> Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Raynton,</hi> Mr. <hi>Pollard,</hi> Mr. <hi>Forteſcue,</hi> Mr. <hi>Drake,</hi> Mr. <hi>Jngleby</hi> and others, who ſtands for the King alone in the North part of the ſhire.</p>
+            <p>Maſter <hi>Berry,</hi> Mr. <hi>Ackland</hi> and others, op<g ref="char:EOLhyphen"/>poſers of theſe Gentlemen.</p>
+            <p>Sir <hi>John Banlet,</hi> Mr. <hi>Aſh</hi> and others, for the Eaſt and Southams for the King.</p>
+            <p>Sir <hi>George Chudleigh,</hi> and his Sonne in law Captaine <hi>Gifford</hi> and other Gentlemen for the PARLIAMENT in that part, ſo that you ſee there is a great bead ſprung up and gotten together, and they have divi<g ref="char:EOLhyphen"/>ded
+<pb n="5" facs="tcp:125357:3"/>themſelves into three parts, which is about 5000. Two thouſand of which are drawne to <hi>Jlfarcome,</hi> expecting ayde of the <hi>Welſh</hi> from the Lord Marquis of <hi>Hartford</hi> or the Lord <hi>Herbert,</hi> but wee heare Mar<g ref="char:EOLhyphen"/>quis <hi>Hartford</hi> is come to his Majeſtie; o<g ref="char:EOLhyphen"/>ther three Thouſand towards <hi>Plimonth</hi> and <hi>Dartmouth,</hi> expecting ayde from <hi>Holland,</hi> if not according to expectation, that then to march into <hi>Cornwall</hi> where there is a great partie.</p>
+            <p>Maſter <hi>Arundell</hi> hath the greateſt Forces there and is able to raiſe more men then halfe the Gentlemen in that ſhire, and hee alone was the firſt that began the Rebellion there, next under him is Sir <hi>Richard Vive,</hi> Sir <hi>Chriſtopher Wray,</hi> and Mr. <hi>Cooles,</hi> as for Sir <hi>Nicholas Slaning,</hi> J beleeve he is greatly abuſed, for having little or no reſiſtance, he was conſtrained to yeeld to Sir <hi>Ralph Hop<g ref="char:EOLhyphen"/>tons</hi> requeſt; for it ſeemed ſo by the ſtory, for hee manfully reſiſted him and loſt ſea<g ref="char:EOLhyphen"/>ven Men before Sir <hi>Ralph Hopton</hi> entred his Caſtle.</p>
+            <p>
+               <pb n="6" facs="tcp:125357:4"/>
+J can no wayes diſparage Sir <hi>Raph Hop<g ref="char:EOLhyphen"/>tons</hi> actions, for hee carrieth himſelfe nobly without doing any miſchief or great ſpoile, But Sir <hi>Bevill Greenevile</hi> hath beene a Ty<g ref="char:EOLhyphen"/>rant, eſpecially to his Tennants, threatning them to thruſt them out of houſe &amp; home, if they will not aſſiſt him and his confe<g ref="char:EOLhyphen"/>derates; J may boldly ſpeake it to my griefe, that he is the onely perſecutor of theſe parts. We have looked long for aſ<g ref="char:EOLhyphen"/>ſiſtance and dayly expect it till which time we ſhall live in miſery. The Earle of <hi>Bed<g ref="char:EOLhyphen"/>fords</hi> Forces billitted up and downe, are but few in number, ſo that little ſervice is expected till a grenter ſupply be raiſed.</p>
+            <p>There was on Thurſday laſt at <hi>Minmoore</hi>-heath 4. troops of horſe, and a Regiment of foote, under the command of Maſter <hi>Ar<g ref="char:EOLhyphen"/>rundell,</hi> and Sir <hi>Bevile Geenevile,</hi> exerciſed without any reſiſtance; and there was no little daring of Maſter <hi>Carmenowe,</hi> Sir <hi>John Speccott,</hi> Sir <hi>Gyles North,</hi> and Maſter <hi>Trefuſes</hi> to meete them, ſo many, for ſo many; at laſt marching out of the Feild
+<pb n="7" facs="tcp:125357:4"/>Maſter <hi>Trelany</hi> one of the Deputies Liev<g ref="char:EOLhyphen"/>tenants with his Regiment of foote tooke Sir <hi>Bevile Greenevile</hi> his Cornet, and Cap<g ref="char:EOLhyphen"/>taine <hi>Spicer</hi> and his Lievtenant Priſoners, and are at this preſent at <hi>Bodnam</hi> Goale, Sir <hi>Bevile</hi> tooke ſome of his company which are Yeoman of worth, and detaines them likewiſe.</p>
+            <p>The Lord <hi>Mohone</hi> doth no great ſpoyle, but his greateſt malice is at the Lord <hi>Ro<g ref="char:EOLhyphen"/>berts</hi> houſe at <hi>Truro.</hi>
+            </p>
+            <p>There hath beene lately landed in ſome Creeke in that County 10. or more Semi<g ref="char:EOLhyphen"/>nary Prieſts which is newly come out of <hi>Flanders,</hi> and harbored at Maſter <hi>Arrundell</hi> his houſe, they are mercileſſe creatures, and endeuoureth by many meanes to the Papiſts in that County to uſe a ſpeedie diſpatch for the voting out of the Proteſtants there and there is great way laid for the apprehend<g ref="char:EOLhyphen"/>ing of them. Sir <hi>Raph Hopton</hi> hath ſent to the Governour of the Jſle of <hi>Silley</hi> for ſome therein, but they ſtand upon their guard be<g ref="char:EOLhyphen"/>ing men with ſtones able to contend with
+<pb n="8" facs="tcp:125357:5"/>the whole world, and faine would Sir <hi>Ralph</hi> and his Cavaliers ſet footing there, but Ma<g ref="char:EOLhyphen"/>ſter <hi>Stukeley</hi> the Governour thereof who is both wiſe and politique, durſt not truſt or entertaine his motion, wee have nothing more to ſay but onely this, our Countrey is very weake for want of Armes, and thoſe few we have are very defective. There hath beene more ſubſtantiall Armour found in Maſter <hi>Chicheſters</hi> houſe at <hi>Arlington,</hi> and at Maſter <hi>Courtney</hi> his houſe, both Recuſants, then in all our whole County, (the Gentry excepted) at the ſearching of theſe Gentle<g ref="char:EOLhyphen"/>mens houſes, there were many wounded.</p>
+            <p>Thus deſiring your anſwer of his Maje<g ref="char:EOLhyphen"/>ſties affaires in the North, J leave you to Gods protection and reſt your aſſured friend and kinſman,</p>
+            <closer>
+               <signed>GYLES PRESCOT.</signed>
+               <dateline>From <hi>Plimouth,</hi> 
+                  <date>the 21. of October, 1642.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
